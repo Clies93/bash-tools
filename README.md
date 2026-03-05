@@ -1,3 +1,3 @@
-# Je s'appelle GROOT
-Auteur : Etudiant A - script carre
-Auteur : Etudiant B - script factorielle
+# Bash Tools - Boîte à outils Bash
+Auteur : Étudiant A - Script carré
+Auteur : Étudiant B - Script factorielle
